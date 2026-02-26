@@ -75,7 +75,8 @@ content: "MIN";
 .sec::after{
 content: "SEC";
 }
- ========= RESPONSIVE FIX ========
+
+/* ========= RESPONSIVE FIX ========= */
 
 @media screen and (max-width: 768px){
 
@@ -109,7 +110,7 @@ content: "SEC";
 }
 
 
- ==== Extra small mobile =====
+/* Extra small mobile */
 
 @media screen and (max-width: 480px){
 
